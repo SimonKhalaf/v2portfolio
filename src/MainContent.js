@@ -10,8 +10,8 @@ const MainContent = () => {
             <h2><span className="smaller">I'm</span> Simon Khalaf</h2>
             <h1>Front End Developer</h1>
             <div className='knappar'>
-            <button className='insta'>INSTAGRAM</button>
-            <button className='link'>LINKEDIN</button> 
+            <a href="mailto:simon.khalaf@hotmail.se" class="insta">CONTACT ME</a>
+            <a href="https://www.linkedin.com/in/simon-khalaf/" class="link">LINKEDIN</a>
             </div>
           </div>
           <div className="right">

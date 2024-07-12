@@ -3,8 +3,8 @@ import MainContent from './MainContent';
 import About from './About';
 import Project from './Project';
 import Contact from './Contact';
-import Footer from './Footer';
 import Skills from './Skills';
+import Footer from './Footer';
 
 function App() {
   return (
